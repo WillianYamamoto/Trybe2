@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//Desenvolva uma aplicação REST em .NET que simule a gestão de salas de reunião em um ambiente corporativo. O sistema permitirá o cadastro de salas e a realização de reservas, com algumas regras de negócio. Não é necessário utilizar banco de dados ou armazenar os dados em memória entre requisições.
+//O foco desta avaliação é a aplicação dos pilares da orientação a objetos dentro de uma arquitetura em camadas e a exposição de funcionalidades básicas via API RESTful.
